@@ -4,13 +4,43 @@
 
 
 =========BRI/LIGACANGCUT==========
-#EXTINF:-1 group-title="BRI SUPER LEAGUE" tvg-id="vidio.com" tvg-logo="https://thumbor.prod.vidiocdn.com/hpk21g5JaIEbV4Yfq34mrQZk6IY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4910756/fafb41.jpg",PERSEBAYA Surabaya vs PSM Makassar - BRI Super League 20:30 WIB
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/jkfMpCUGwwFMc_70NQio3olGxV4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4910696/5408ef.jpg" group-title="BRI SUPER LEAGUE",PERSIB vs Madura United FC - BRI Super League 20:30 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-referrer=https://m.vidio.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://all.diskon.cloud/vidios/index.drm?id=19354&type=drm
 http://all.diskon.cloud/vidios/index.mpd?id=19354&type=dash
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/DiZPU2bRNnSX9ZnigCvZUDMSrGw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4914233/ec89bb.jpg" group-title="BRI SUPER LEAGUE",Borneo FC Samarinda vs Arema FC - BRI Super League 20:30 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://all.diskon.cloud/vidios/index.drm?id=19384&type=drm
+http://all.diskon.cloud/vidios/index.mpd?id=19384&type=dash
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/pWJIasRoDbB7zKrw3tsTa94jMfY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4914230/882f2a.jpg" group-title="BRI SUPER LEAGUE",PERSITA vs Dewa United Banten FC - BRI Super League 20:30
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://all.diskon.cloud/vidios/index.drm?id=19353&type=drm
+http://all.diskon.cloud/vidios/index.mpd?id=19353&type=dash
 
+==============PROLIGA============
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa8xQvQ2zcJet_BUp_7aazHZLgFTFxoVXvig&usqp=CAU" group-title="PROLIGA 2026",Proliga Bola Voli 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aylin-ratu77.mediaflow.workers.dev/index.mpd?id=20240&type=drm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12.1; TV BOX) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.101 Safari/537.36
+https://aylin-ratu77.mediaflow.workers.dev/index.mpd?id=20240&type=dash
 ===============BWF================
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHMpVZZwG5ikQKhuOcvNWM0QnE62T2LLqK6w&s" group-title="BWF",YONEX German Open 2026 (24 FEB 2026)
@@ -2522,6 +2552,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/ind
 #KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
 
 
 
