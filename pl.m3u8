@@ -1,3 +1,18 @@
+#PLAYLISY RECEH GAK USAH DI COMOT OM
+
+
+
+
+=========BRI/LIGACANGCUT==========
+#EXTINF:-1 group-title="BRI SUPER LEAGUE" tvg-id="vidio.com" tvg-logo="https://thumbor.prod.vidiocdn.com/hpk21g5JaIEbV4Yfq34mrQZk6IY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4910756/fafb41.jpg",PERSEBAYA Surabaya vs PSM Makassar - BRI Super League 20:30 WIB
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://all.diskon.cloud/vidios/index.drm?id=19354&type=drm
+http://all.diskon.cloud/vidios/index.mpd?id=19354&type=dash
+
+===============BWF================
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHMpVZZwG5ikQKhuOcvNWM0QnE62T2LLqK6w&s" group-title="BWF",YONEX German Open 2026 (24 FEB 2026)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aylin-ratu76.mediaflow.workers.dev/index.mpd?id=18249&type=drm
@@ -2507,5 +2522,6 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/ind
 #KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
 
 
