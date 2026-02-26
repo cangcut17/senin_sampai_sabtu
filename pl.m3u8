@@ -5,20 +5,23 @@
 #EXTVLCOPT:http-referrer=https://m.vidio.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://all.diskon.cloud/vidios/index.drm?id=19354&type=drm
-http://all.diskon.cloud/vidios/index.mpd?id=19354&type=dash
+#KODIPROP:inputstream.adaptive.license_key=http://all.diskon.cloud/vidx/index.drm?id=19354&type=drm&token=fae37adc4dda6c59c747160278c3aa7e
+http://all.diskon.cloud/vidx/index.mpd?id=19354&type=dash&token=fae37adc4dda6c59c747160278c3aa7e
+
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/DiZPU2bRNnSX9ZnigCvZUDMSrGw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4914233/ec89bb.jpg" group-title="BRI SUPER LEAGUE",Borneo FC Samarinda vs Arema FC - BRI Super League 20:30 WIB
 #EXTVLCOPT:http-referrer=https://m.vidio.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://all.diskon.cloud/vidios/index.drm?id=19384&type=drm
-http://all.diskon.cloud/vidios/index.mpd?id=19384&type=dash
+#KODIPROP:inputstream.adaptive.license_key=http://all.diskon.cloud/vidx/index.drm?id=19384&type=drm&token=fae37adc4dda6c59c747160278c3aa7e
+http://all.diskon.cloud/vidx/index.mpd?id=19384&type=dash&token=fae37adc4dda6c59c747160278c3aa7e
+
+
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/pWJIasRoDbB7zKrw3tsTa94jMfY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4914230/882f2a.jpg" group-title="BRI SUPER LEAGUE",PERSITA vs Dewa United Banten FC - BRI Super League 20:30 WIB
 #EXTVLCOPT:http-referrer=https://m.vidio.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://all.diskon.cloud/vidios/index.drm?id=19353&type=drm
-http://all.diskon.cloud/vidios/index.mpd?id=19353&type=dash
+#KODIPROP:inputstream.adaptive.license_key=http://all.diskon.cloud/vidx/index.drm?id=19353&type=drm&token=fae37adc4dda6c59c747160278c3aa7e
+http://all.diskon.cloud/vidx/index.mpd?id=19353&type=dash&token=fae37adc4dda6c59c747160278c3aa7e
 
 ============PROLIG@============
 
@@ -27,8 +30,8 @@ http://all.diskon.cloud/vidios/index.mpd?id=19353&type=dash
  #EXTVLCOPT:http-referrer=https://m.vidio.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://all.diskon.cloud/vidios/index.drm?id=20240&type=drm
-http://all.diskon.cloud/vidios/index.mpd?id=20240&type=dash
+#KODIPROP:inputstream.adaptive.license_key=http://all.diskon.cloud/vidx/index.drm?id=20240&type=drm&token=fae37adc4dda6c59c747160278c3aa7e
+http://all.diskon.cloud/vidx/index.mpd?id=20240&type=dash&token=fae37adc4dda6c59c747160278c3aa7e
 
 
 =============BWF==============
@@ -1946,4 +1949,5 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/ind
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
+
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
