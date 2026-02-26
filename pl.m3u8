@@ -38,7 +38,8 @@ https://aylin-ratu76.mediaflow.workers.dev/index.mpd?id=18253&type=dash
 
 
 ============ALL CH=============
-
+#EXTINF:-1 group-title="NASIONAL"  tvg-logo="https://thumbor.prod.vidiocdn.com/utHf_OtkSfN2Y7rYBdIYUH6wGBM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6852/al-quran-al-kareem-tv-62095c.jpg",AL QURAN AL KAREEM
+https://cdn10jtedge.indihometv.com/atm/DASH/alquran/manifest.mpd
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_MNC-180x180_2025_11_06_13_06_02.jpg",MNCTV (IHT)
 https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/manifest.mpd
@@ -1930,5 +1931,6 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
 
 
