@@ -1,13 +1,12 @@
 ==========LIGA TARKAM=========
 
 
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/DiZPU2bRNnSX9ZnigCvZUDMSrGw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4914233/ec89bb.jpg" group-title="BRI SUPER LEAGUE",Borneo FC Samarinda vs Arema FC - BRI Super League Dellay 22:30 WIB
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/10JXZvuqixOonjL9P-gF7RCqfVI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4914231/0970f6.jpg" group-title="BRI SUPER LEAGUE",PSBS Biak vs PSIM Jogja - BRI Super League 20:30 WIB
 #EXTVLCOPT:http-referrer=https://m.vidio.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://all.diskon.cloud/vidx/index.drm?id=19354&type=drm&token=fae37adc4dda6c59c747160278c3aa7e
-http://all.diskon.cloud/vidx/index.mpd?id=19354&type=dash&token=fae37adc4dda6c59c747160278c3aa7e
-
+#KODIPROP:inputstream.adaptive.license_key=http://all.diskon.cloud/vidx/index.drm?id=205&type=drm&token=fae37adc4dda6c59c747160278c3aa7e
+http://all.diskon.cloud/vidx/index.mpd?id=205&type=dash&token=fae37adc4dda6c59c747160278c3aa7e
 
 ============PROLIG@============
 
@@ -1931,3 +1930,4 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
