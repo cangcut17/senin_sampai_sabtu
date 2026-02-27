@@ -2,37 +2,46 @@ APABILA YANG MENUKAN PLAYLIST AKEKTV/TVKAP10
 JAGAN DI PERJUAL BELIKAN,KARNA INI PLAYLIST
 SAMPAH YANG UDAH DI SUSUN SAMA GCIKAR TV
 
-
-==========LIGA TARKAM=========
-
-
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/10JXZvuqixOonjL9P-gF7RCqfVI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4914231/0970f6.jpg" group-title="BRI SUPER LEAGUE",PSBS Biak vs PSIM Jogja - BRI Super League 20:30 WIB
-#EXTVLCOPT:http-referrer=https://m.vidio.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://all.diskon.cloud/vidx/index.drm?id=205&type=drm&token=ac17c1852d9c1524c73e41c421cb36ac
-http://all.diskon.cloud/vidx/index.mpd?id=205&type=dash&token=ac17c1852d9c1524c73e41c421cb36ac
-
-==============liga2============
-
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/D0YX-M2tEyiM8XLdcW1xeit1uqg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4915732/63f19a.jpg" group-title="LIGA 2",Persipal FC vs Persiku Kudus - Pegadaian Championship 20:30 WIB
-#EXTVLCOPT:http-referrer=https://m.vidio.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://all.diskon.cloud/vidx/index.drm?id=19541&type=drm&token=ac17c1852d9c1524c73e41c421cb36ac
-http://all.diskon.cloud/vidx/index.mpd?id=19541&type=dash&token=ac17c1852d9c1524c73e41c421cb36ac
-
-
-
-
-
-============PROLIG@============
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/S-2kz26SdZZRaZ5KXzLy1oMeRsI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4914223/a57a0e.jpg" group-title="PROLIGA 2026",Putri: Jakarta Popsivo Polwan vs Medan Falcons - Proliga 20:30 WIB
+#EXTINF:-1 group-logo="" tvg-logo="https://thumbor.prod.vidiocdn.com/TXpkKWpLnz9R1-7dJKG-p3ON_Bo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4914224/c95407.jpg" group-title="PROLIGA 2026",Putra: Jakarta Garuda Jaya vs Medan Falcons Tirta Bhagasasi - Proliga 20:00 WIB
 #EXTVLCOPT:http-referrer=https://m.vidio.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://all.diskon.cloud/vidx/index.drm?id=20240&type=drm&token=ac17c1852d9c1524c73e41c421cb36ac
 http://all.diskon.cloud/vidx/index.mpd?id=20240&type=dash&token=ac17c1852d9c1524c73e41c421cb36ac
+
+#EXTINF:-1 group-logo="" tvg-logo="https://thumbor.prod.vidiocdn.com/sCzwEKy3wd7NvxSQRQ0KbM6ZIsU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4915733/dbe7da.jpg" group-title="LIGA 2",FC Bekasi City vs PSMS Medan - Pegadaian Championship 20:22 WIB
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://all.diskon.cloud/vidx/index.drm?id=19541&type=drm&token=ac17c1852d9c1524c73e41c421cb36ac
+http://all.diskon.cloud/vidx/index.mpd?id=19541&type=dash&token=ac17c1852d9c1524c73e41c421cb36ac
+#EXTINF:-1 group-logo="" tvg-logo="https://thumbor.prod.vidiocdn.com/zStDt3oWvnBRmpIev8M7gQdgRSo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4917520/760da4.jpg" group-title="LIGA 2",PSPS Pekanbaru vs Garudayaksa FC - Pegadaian Championship 20:22 WIB
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://all.diskon.cloud/vidx/index.drm?id=19542&type=drm&token=ac17c1852d9c1524c73e41c421cb36ac
+http://all.diskon.cloud/vidx/index.mpd?id=19542&type=dash&token=ac17c1852d9c1524c73e41c421cb36ac
+#EXTINF:-1 group-logo="" tvg-logo="https://thumbor.prod.vidiocdn.com/KWlISQ7mC8XKze6ul86eEAev2oM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4917522/73f9da.jpg" group-title="LIGA 2",Sumsel United vs Sriwijaya FC - Pegadaian Championship 20:22 WIB
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://all.diskon.cloud/vidx/index.drm?id=19883&type=drm&token=ac17c1852d9c1524c73e41c421cb36ac
+http://all.diskon.cloud/vidx/index.mpd?id=19883&type=dash&token=ac17c1852d9c1524c73e41c421cb36ac
+#EXTINF:-1 group-logo="" tvg-logo="https://thumbor.prod.vidiocdn.com/sKP-DBccpXpDHITp-QW8WFLj47I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4917523/a728b2.jpg" group-title="LIGA 2",Persikad vs Persiraja Banda Aceh - Pegadaian Championship 20:22 WIB
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://all.diskon.cloud/vidx/index.drm?id=19543&type=drm&token=ac17c1852d9c1524c73e41c421cb36ac
+http://all.diskon.cloud/vidx/index.mpd?id=19543&type=dash&token=ac17c1852d9c1524c73e41c421cb36ac
+#EXTINF:-1 group-logo="" tvg-logo="https://thumbor.prod.vidiocdn.com/juppvFiwnRozm3Jjq4d9Le6ipN8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4915753/ebbb6a.jpg" group-title="BRI SUPER LEAGUE",Bali United FC vs PERSIJAP - BRI Super League 20:30 WIB
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://all.diskon.cloud/vidx/index.drm?id=19354&type=drm&token=ac17c1852d9c1524c73e41c421cb36ac
+http://all.diskon.cloud/vidx/index.mpd?id=19354&type=dash&token=ac17c1852d9c1524c73e41c421cb36ac
+
+
+
 
 ============MOTOGP============
 
@@ -1963,6 +1972,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
 
 
 
