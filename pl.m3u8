@@ -13,8 +13,26 @@ SAMPAH YANG UDAH DI SUSUN SAMA GCIKAR TV
 #KODIPROP:inputstream.adaptive.license_key=http://all.diskon.cloud/vidx/index.drm?id=205&type=drm&token=fae37adc4dda6c59c747160278c3aa7e
 http://all.diskon.cloud/vidx/index.mpd?id=205&type=dash&token=fae37adc4dda6c59c747160278c3aa7e
 
-============PROLIG@============
+==============liga2============
 
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/D0YX-M2tEyiM8XLdcW1xeit1uqg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4915732/63f19a.jpg" group-title="LIGA 2",Persipal FC vs Persiku Kudus - Pegadaian Championship 20:30 WIB
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://all.diskon.cloud/vidx/index.drm?id=19541&type=drm&token=81f44081fcccb845ec0a82812ec227f0
+http://all.diskon.cloud/vidx/index.mpd?id=19541&type=dash&token=81f44081fcccb845ec0a82812ec227f0
+
+
+
+
+
+============PROLIG@============
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/S-2kz26SdZZRaZ5KXzLy1oMeRsI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4914223/a57a0e.jpg" group-title="PROLIGA 2026",Putri: Jakarta Popsivo Polwan vs Medan Falcons - Proliga 20:30 WIB
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://all.diskon.cloud/vidx/index.drm?id=20240&type=drm&token=81f44081fcccb845ec0a82812ec227f0
+http://all.diskon.cloud/vidx/index.mpd?id=20240&type=dash&token=81f44081fcccb845ec0a82812ec227f0
 
 ============MOTOGP============
 
@@ -1945,6 +1963,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
 
 
 
