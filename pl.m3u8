@@ -41,8 +41,8 @@ http://all.diskon.cloud/vidx/index.mpd?id=20240&type=dash&token=ac17c1852d9c1524
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nissa77.adptv.workers.dev/widevine.mpd?id=17139&type=drm&token=81f44081fcccb845ec0a82812ec227f0
-https://nissa77.adptv.workers.dev/manifest.mpd?id=17139&type=dash&token=81f44081fcccb845ec0a82812ec227f0
+#KODIPROP:inputstream.adaptive.license_key=https://nissa77.adptv.workers.dev/widevine.mpd?id=17139&type=drm&token=ac17c1852d9c1524c73e41c421cb36ac
+https://nissa77.adptv.workers.dev/manifest.mpd?id=17139&type=dash&token=ac17c1852d9c1524c73e41c421cb36ac
 
 
 =============BWF==============
@@ -1963,6 +1963,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
 
 
 
