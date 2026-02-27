@@ -10,8 +10,8 @@ SAMPAH YANG UDAH DI SUSUN SAMA GCIKAR TV
 #EXTVLCOPT:http-referrer=https://m.vidio.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://all.diskon.cloud/vidx/index.drm?id=205&type=drm&token=fae37adc4dda6c59c747160278c3aa7e
-http://all.diskon.cloud/vidx/index.mpd?id=205&type=dash&token=fae37adc4dda6c59c747160278c3aa7e
+#KODIPROP:inputstream.adaptive.license_key=http://all.diskon.cloud/vidx/index.drm?id=205&type=drm&token=ac17c1852d9c1524c73e41c421cb36ac
+http://all.diskon.cloud/vidx/index.mpd?id=205&type=dash&token=ac17c1852d9c1524c73e41c421cb36ac
 
 ==============liga2============
 
@@ -19,8 +19,8 @@ http://all.diskon.cloud/vidx/index.mpd?id=205&type=dash&token=fae37adc4dda6c59c7
 #EXTVLCOPT:http-referrer=https://m.vidio.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://all.diskon.cloud/vidx/index.drm?id=19541&type=drm&token=81f44081fcccb845ec0a82812ec227f0
-http://all.diskon.cloud/vidx/index.mpd?id=19541&type=dash&token=81f44081fcccb845ec0a82812ec227f0
+#KODIPROP:inputstream.adaptive.license_key=http://all.diskon.cloud/vidx/index.drm?id=19541&type=drm&token=ac17c1852d9c1524c73e41c421cb36ac
+http://all.diskon.cloud/vidx/index.mpd?id=19541&type=dash&token=ac17c1852d9c1524c73e41c421cb36ac
 
 
 
@@ -31,8 +31,8 @@ http://all.diskon.cloud/vidx/index.mpd?id=19541&type=dash&token=81f44081fcccb845
 #EXTVLCOPT:http-referrer=https://m.vidio.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://all.diskon.cloud/vidx/index.drm?id=20240&type=drm&token=81f44081fcccb845ec0a82812ec227f0
-http://all.diskon.cloud/vidx/index.mpd?id=20240&type=dash&token=81f44081fcccb845ec0a82812ec227f0
+#KODIPROP:inputstream.adaptive.license_key=http://all.diskon.cloud/vidx/index.drm?id=20240&type=drm&token=ac17c1852d9c1524c73e41c421cb36ac
+http://all.diskon.cloud/vidx/index.mpd?id=20240&type=dash&token=ac17c1852d9c1524c73e41c421cb36ac
 
 ============MOTOGP============
 
@@ -1963,6 +1963,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
 
 
 
