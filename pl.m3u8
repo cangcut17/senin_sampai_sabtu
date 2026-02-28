@@ -72,7 +72,7 @@ http://antirim.diskon.cloud/vidx/index.mpd?id=19543&type=dash&token=748f719451c3
 #KODIPROP:inputstream.adaptive.license_key=http://antirim.diskon.cloud/vidx/index.drm?id=20833&type=drm&token=748f719451c3e47f169a494f138689d3
 http://antirim.diskon.cloud/vidx/index.mpd?id=20833&type=dash&token=748f719451c3e47f169a494f138689d3
 
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/cwTp6goi5Z1ip9Gzr0HtT6L62FA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4918127/39be9d.jpg" group-title="LIGA2", Persiba Balikpapan vs PSIS Semarang - Pegadaian Championship 20:22 WIB
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/cwTp6goi5Z1ip9Gzr0HtT6L62FA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4918127/39be9d.jpg" group-title="LIGA 2", Persiba Balikpapan vs PSIS Semarang - Pegadaian Championship 20:22 WIB
 #EXTVLCOPT:http-referrer=https://m.vidio.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1999,3 +1999,4 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
