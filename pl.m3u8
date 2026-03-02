@@ -32,15 +32,15 @@ Karena ini playlist M3U yang sering dianggap "abu-abu" oleh penyedia layanan int
 #EXTVLCOPT:http-referrer=https://m.vidio.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://antirim.diskon.cloud/vidx/index.drm?id=19353&type=drm&token=
-#http://antirim.diskon.cloud/vidx/index.mpd?id=19353&type=dash&token=
+#KODIPROP:inputstream.adaptive.license_key=http://all.diskon.cloud/v-node/index.drm?id=19353&type=drm
+#http://all.diskon.cloud/v-node/index.mpd?id=19353&type=dash
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/uuH2RBYNhDzSgmXkvhF27_MuUQ0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4922157/e8fda6.jpg" group-title="BRI SUPER LEAGUE", PERSEBAYA Surabaya vs PERSIB - BRI Super League 20:30 WIB
 #EXTVLCOPT:http-referrer=https://m.vidio.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://antirim.diskon.cloud/vidx/index.drm?id=19354&type=drm&token=
-#http://antirim.diskon.cloud/vidx/index.mpd?id=19354&type=dash&token=
+#KODIPROP:inputstream.adaptive.license_key=http://all.diskon.cloud/v-node/index.drm?id=19354&type=drm
+#http://all.diskon.cloud/v-node/index.mpd?id=19354&type=dash
 
 
 
@@ -1961,6 +1961,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
 
 
 
