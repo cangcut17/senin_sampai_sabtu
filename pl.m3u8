@@ -34,22 +34,22 @@ Karena ini playlist M3U yang sering dianggap "abu-abu" oleh penyedia layanan int
 
 
 =========== BWF============
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/asZkHy-9cxdbKCLwkuuoccpy0z0=/960x576/filters:quality(70)/vidio-web-prod-headline/uploads/headline/mobile_image/36474/yonex-all-england-open-badminton-championships-2026-round-of-32-court-1-71a340.jpg" group-title="BWF",YONEX YONEX ALL ENGLAND OPEN 2026
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/asZkHy-9cxdbKCLwkuuoccpy0z0=/960x576/filters:quality(70)/vidio-web-prod-headline/uploads/headline/mobile_image/36474/yonex-all-england-open-badminton-championships-2026-round-of-32-court-1-71a340.jpg" group-title="BWF",YONEX ALL ENGLAND OPEN 2026
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aylin-ratu76.mediaflow.workers.dev/index.mpd?id=18249&type=drm
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 https://aylin-ratu76.mediaflow.workers.dev/index.mpd?id=18249&type=dash
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/asZkHy-9cxdbKCLwkuuoccpy0z0=/960x576/filters:quality(70)/vidio-web-prod-headline/uploads/headline/mobile_image/36474/yonex-all-england-open-badminton-championships-2026-round-of-32-court-1-71a340.jpg" group-title="BWF",YONEX YONEX ALL ENGLAND OPEN 2026
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/asZkHy-9cxdbKCLwkuuoccpy0z0=/960x576/filters:quality(70)/vidio-web-prod-headline/uploads/headline/mobile_image/36474/yonex-all-england-open-badminton-championships-2026-round-of-32-court-1-71a340.jpg" group-title="BWF",YONEX ALL ENGLAND OPEN 2026
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aylin-ratu76.mediaflow.workers.dev/index.mpd?id=18250&type=drm
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 https://aylin-ratu76.mediaflow.workers.dev/index.mpd?id=18250&type=dash
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/asZkHy-9cxdbKCLwkuuoccpy0z0=/960x576/filters:quality(70)/vidio-web-prod-headline/uploads/headline/mobile_image/36474/yonex-all-england-open-badminton-championships-2026-round-of-32-court-1-71a340.jpg" group-title="BWF",YONEX YONEX ALL ENGLAND OPEN 2026
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/asZkHy-9cxdbKCLwkuuoccpy0z0=/960x576/filters:quality(70)/vidio-web-prod-headline/uploads/headline/mobile_image/36474/yonex-all-england-open-badminton-championships-2026-round-of-32-court-1-71a340.jpg" group-title="BWF",YONEX ALL ENGLAND OPEN 2026
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aylin-ratu76.mediaflow.workers.dev/index.mpd?id=18252&type=drm
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 https://aylin-ratu76.mediaflow.workers.dev/index.mpd?id=18252&type=dash
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/asZkHy-9cxdbKCLwkuuoccpy0z0=/960x576/filters:quality(70)/vidio-web-prod-headline/uploads/headline/mobile_image/36474/yonex-all-england-open-badminton-championships-2026-round-of-32-court-1-71a340.jpg" group-title="BWF",YONEX YONEX ALL ENGLAND OPEN 2026
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/asZkHy-9cxdbKCLwkuuoccpy0z0=/960x576/filters:quality(70)/vidio-web-prod-headline/uploads/headline/mobile_image/36474/yonex-all-england-open-badminton-championships-2026-round-of-32-court-1-71a340.jpg" group-title="BWF",YONEX ALL ENGLAND OPEN 2026
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aylin-ratu76.mediaflow.workers.dev/index.mpd?id=18253&type=drm
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
@@ -1952,6 +1952,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
 
 
 
