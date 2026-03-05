@@ -55,7 +55,8 @@ Karena ini playlist M3U yang sering dianggap "abu-abu" oleh penyedia layanan int
 #https://aylin-ratu76.mediaflow.workers.dev/index.mpd?id=18253&type=dash
 
 ========ALL CH  TV=======
-
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHeuzHLnRVwjqOKx3S8mCb9sIU7qy6Exs7OQ&usqp=CAU",//t.me/adptv17
+http://all.diskon.cloud/vod/dailymotion.m3u8?id=x98v6gs
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_MNC-180x180_2025_11_06_13_06_02.jpg",MNCTV (IHT)
 https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/manifest.mpd
 #EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://images.indihometv.com/images/channels/imageCir_GTV-180x180_2025_11_06_13_07_56.jpg" group-title="NASIONAL",GTV (VS)
@@ -1954,6 +1955,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
 
 
 
