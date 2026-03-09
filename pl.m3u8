@@ -28,34 +28,18 @@ Karena ini playlist M3U yang sering dianggap "abu-abu" oleh penyedia layanan int
 
 ========== BRI======={
 #EXTM3U
-#EXTINF:-1 group-title="@LIVE" tvg-id="Indosiar.id" tvg-logo="https://thumbor.prod.vidiocdn.com/HPCeDCw8J9Caga5vMRb-Q5QkWdM=/960x576/filters:quality(70)/vidio-web-prod-headline/uploads/headline/mobile_image/32178/bri-super-league-2025-26-99d06c.jpg",Persib vs Persik | 20:30 WIB
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="@LIVE" tvg-logo="https://thumbor.prod.vidiocdn.com/18J0RFnChQAGm-iPY7xvkey4c2g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4946453/df10ff.jpg" ch-number="1", PERSIB vs PERSIK Kediri - BRI Super League
 #EXTVLCOPT:http-referrer=https://m.vidio.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1bafd07609f116d7a0437f129e9e98c2:6f4ebc46acfc497037175a88cee11ef7
-https://onetv.my.id/Bebas/19354.mpd
-#EXTINF:-1 group-title="@LIVE" tvg-id="Indosiar.id" tvg-logo="https://thumbor.prod.vidiocdn.com/HPCeDCw8J9Caga5vMRb-Q5QkWdM=/960x576/filters:quality(70)/vidio-web-prod-headline/uploads/headline/mobile_image/32178/bri-super-league-2025-26-99d06c.jpg",Persijap vs Persis | 20:30 WIB
-#EXTVLCOPT:http-referrer=https://m.vidio.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
-#EXTINF:-1 group-title="@LIVE" tvg-id="Indosiar.id" tvg-logo="https://thumbor.prod.vidiocdn.com/HPCeDCw8J9Caga5vMRb-Q5QkWdM=/960x576/filters:quality(70)/vidio-web-prod-headline/uploads/headline/mobile_image/32178/bri-super-league-2025-26-99d06c.jpg",PSBS Biak vs Semen Padang | 20:30 WIB
-#EXTVLCOPT:http-referrer=https://m.vidio.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=95ce44d5a83e795293e562e4676c692c:56d5e4e92e3b3a482fb83a24c510c1fa
-https://onetv.my.id/Bebas/19386.mpd
-#EXTINF:-1 group-title="@LIVE" tvg-id="moji.id" tvg-logo="https://thumbor.prod.vidiocdn.com/9XTw3tEVXPWo5Dl2ier_CcgeVEg=/960x576/filters:quality(70)/vidio-web-prod-headline/uploads/headline/mobile_image/35076/proliga-7fc43a.jpg",Putri: Jakarta Livin Mandiri vs Jakarta Electric PLN Mobile | 20:30 WIB
-#EXTVLCOPT:http-referrer=https://m.vidio.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d7a80658cbdb9089820e843f334abec4:ffa6d1ca95916e5bb44c9b74addc3440
-#EXTINF:-1 group-title="@LIVE" tvg-id="moji.id" tvg-logo="https://thumbor.prod.vidiocdn.com/9XTw3tEVXPWo5Dl2ier_CcgeVEg=/960x576/filters:quality(70)/vidio-web-prod-headline/uploads/headline/mobile_image/35076/proliga-7fc43a.jpg",Galatasaray HDI Sigorta vs Ziraat Bankkart | 00:00 WIB
-#EXTVLCOPT:http-referrer=https://m.vidio.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://onetv.my.id/Bebas/19738.drm
-https://onetv.my.id/Bebas/19738.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://onetv.my.id/Bebas/19354.drm
+https://onetv.my.id/Bebas/19354.mpd
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="@LIVE" tvg-logo="https://thumbor.prod.vidiocdn.com/m9FzRv0vcq6c0zuMiONnizUOOYg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4946462/b7e81d.jpg" ch-number="2", PSBS Biak vs Semen Padang FC - BRI Super League
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://onetv.my.id/Bebas/19386.drm
+https://onetv.my.id/Bebas/19386.mpd
 
 
 =========== BWF============
@@ -3428,6 +3412,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
 
 
 
