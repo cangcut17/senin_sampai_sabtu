@@ -27,19 +27,6 @@ Karena ini playlist M3U yang sering dianggap "abu-abu" oleh penyedia layanan int
 "Kami tidak menjual playlist ini. Jika ada yang memperjualbelikannya atas nama Akek TV, itu adalah penipuan."
 
 ========== BRI======={
-#EXTM3U
-#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="@LIVE" tvg-logo="https://thumbor.prod.vidiocdn.com/18J0RFnChQAGm-iPY7xvkey4c2g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4946453/df10ff.jpg" ch-number="1", PERSIB vs PERSIK Kediri - BRI Super League
-#EXTVLCOPT:http-referrer=https://m.vidio.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://onetv.my.id/Bebas/19354.drm
-https://onetv.my.id/Bebas/19354.mpd
-#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="@LIVE" tvg-logo="https://thumbor.prod.vidiocdn.com/m9FzRv0vcq6c0zuMiONnizUOOYg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4946462/b7e81d.jpg" ch-number="2", PSBS Biak vs Semen Padang FC - BRI Super League
-#EXTVLCOPT:http-referrer=https://m.vidio.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://onetv.my.id/Bebas/19386.drm
-https://onetv.my.id/Bebas/19386.mpd
 
 
 =========== BWF============
@@ -65,7 +52,7 @@ https://aylin-ratu76.mediaflow.workers.dev/index.mpd?id=18252&type=dash
 https://aylin-ratu76.mediaflow.workers.dev/index.mpd?id=18253&type=dash
 
 =========SAMBUNGAYAM=======
-#EXTINF:-1 tvg-logo="https://media.istockphoto.com/id/1440901848/id/vektor/vektor-ilustrasi-permainan-adu-ayam-tradisional.jpg?s=1024x1024&w=is&k=20&c=rjBYsEsS1cxNog9Jv0iq6CQPFwfPRP5lLjT140Lm0-s=" group-title="Sambung Ayam", aduan/sambung ayam
+#EXTINF:-1 tvg-logo="https://media.istockphoto.com/id/1440901848/id/vektor/vektor-ilustrasi-permainan-adu-ayam-tradisional.jpg?s=1024x1024&w=is&k=20&c=rjBYsEsS1cxNog9Jv0iq6CQPFwfPRP5lLjT140Lm0-s=" group-title="SAMBUNG AYAM", aduan/sambung ayam
 https://mexico.cdn-new.online/today/thomo.m3u8
 
 ============VISION=============
@@ -3412,6 +3399,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
 
 
 
