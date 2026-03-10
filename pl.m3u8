@@ -32,7 +32,7 @@ Karena ini playlist M3U yang sering dianggap "abu-abu" oleh penyedia layanan int
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1bafd07609f116d7a0437f129e9e98c2:6f4ebc46acfc497037175a88cee11ef7
-https://onetv.my.id/Bebas/19354.mpd
+https://onetv.my.id/Bebas/19354.m3u8
 
 =========== BWF============
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/uaPlw2ytF9b3tNxzmc4TWfahAbI=/960x576/filters:quality(70)/vidio-web-prod-headline/uploads/headline/mobile_image/29627/yonex-swiss-open-2026-1ee3ca.jpg" group-title="BWF",YONEX SWISS OPEN 2026
@@ -3405,6 +3405,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
 
 
 
