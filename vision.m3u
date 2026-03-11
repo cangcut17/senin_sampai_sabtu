@@ -1,4 +1,35 @@
-#EXTM3U
+============BRI=============
+#EXTINF:-1 group-title="BRI SUPER LEAGUE" tvg-id="adptv17" tvg-logo="https://thumbor.prod.vidiocdn.com/g1cg9o7p_iMkw-SGXMR-RtMuGKI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4948034/ffe524.jpg", PSIM Jogja vs PERSIJAP - BRI Super League 20:00 WIB
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://onetv.my.id/Bebas/205.drm
+https://onetv.my.id/Bebas/205.mpd
+
+=========== BWF============
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/uaPlw2ytF9b3tNxzmc4TWfahAbI=/960x576/filters:quality(70)/vidio-web-prod-headline/uploads/headline/mobile_image/29627/yonex-swiss-open-2026-1ee3ca.jpg" group-title="BWF",YONEX SWISS OPEN 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aylin-ratu76.mediaflow.workers.dev/index.mpd?id=18249&type=drm
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+https://aylin-ratu76.mediaflow.workers.dev/index.mpd?id=18249&type=dash
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/uaPlw2ytF9b3tNxzmc4TWfahAbI=/960x576/filters:quality(70)/vidio-web-prod-headline/uploads/headline/mobile_image/29627/yonex-swiss-open-2026-1ee3ca.jpg" group-title="BWF",YONEX SWISS OPEN 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aylin-ratu76.mediaflow.workers.dev/index.mpd?id=18250&type=drm
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+https://aylin-ratu76.mediaflow.workers.dev/index.mpd?id=18250&type=dash
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/uaPlw2ytF9b3tNxzmc4TWfahAbI=/960x576/filters:quality(70)/vidio-web-prod-headline/uploads/headline/mobile_image/29627/yonex-swiss-open-2026-1ee3ca.jpg" group-title="BWF",YONEX SWISS OPEN 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aylin-ratu76.mediaflow.workers.dev/index.mpd?id=18252&type=drm
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+https://aylin-ratu76.mediaflow.workers.dev/index.mpd?id=18252&type=dash
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/uaPlw2ytF9b3tNxzmc4TWfahAbI=/960x576/filters:quality(70)/vidio-web-prod-headline/uploads/headline/mobile_image/29627/yonex-swiss-open-2026-1ee3ca.jpg" group-title="BWF",YONEX SWISS OPEN 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aylin-ratu76.mediaflow.workers.dev/index.mpd?id=18253&type=drm
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+https://aylin-ratu76.mediaflow.workers.dev/index.mpd?id=18253&type=dash
+
+===============VISION==============
+
 #EXTINF:-1 tvg-id="Lokal" group-title="NATIONAL TV" tvg-logo="https://www.visionplus.id/images/repository/580/580-LOGO-l.png" ch-number="1",RCTI
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
@@ -722,3 +753,4 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/eb98aca0a1be41f7b9c05dac051a250e/ind
 #EXTINF:-1 tvg-id="Lokal" group-title="SPORT" tvg-logo="https://www.visionplus.id/images/repository/671/549671-LOGO-m.png" ch-number="1016",V+ LIVE 7
 
 #EXTINF:-1 tvg-id="Lokal" group-title="SPORT" tvg-logo="https://www.visionplus.id/images/repository/680/549680-LOGO-m.png" ch-number="1017",V+ LIVE 8
+
