@@ -1,17 +1,17 @@
 ============BRI=============
-#EXTINF:-1 group-logo="" tvg-logo="https://thumbor.prod.vidiocdn.com/pAmVYIVpcOsxlWIQ6khMm7QVsVE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4949029/90b71e.jpg" group-title="BRI SUPER LEAGUE",PERSIS vs Bali United FC - BRI Super League 20:30 WIB
+#EXTINF:-1 group-title="BRI SUPER LEAGUE" tvg-id="adptv17" tvg-logo="https://thumbor.prod.vidiocdn.com/Br9o32qlsUTncegsEYJEx4erag8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4949030/9b3bee.jpg", Borneo FC Samarinda vs PERSIB - BRI Super League | 20:30 WIB (SER2)
 #EXTVLCOPT:http-referrer=https://m.vidio.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/v-node/index.drm?id=19354&type=drm
-#https://tvratu.my.id/v-node/index.mpd?id=19354&type=dash
+https://tvratu.my.id/v-node/index.mpd?id=19354&type=dash
 
-#EXTINF:-1 group-logo="" tvg-logo="https://thumbor.prod.vidiocdn.com/pAmVYIVpcOsxlWIQ6khMm7QVsVE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4949029/90b71e.jpg" group-title="BRI SUPER LEAGUE",PERSIS vs Bali United FC - BRI Super League 20:30 WIB
+#EXTINF:-1 group-title="BRI SUPER LEAGUE" tvg-id="adptv17" tvg-logo="https://thumbor.prod.vidiocdn.com/Br9o32qlsUTncegsEYJEx4erag8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4949030/9b3bee.jpg", Borneo FC Samarinda vs PERSIB - BRI Super League | 20:30 WIB
 #EXTVLCOPT:http-referrer=https://m.vidio.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://onetv.my.id/Bebas/19354.drm
-#https://onetv.my.id/Bebas/19354.mpd
+https://onetv.my.id/Bebas/19354.mpd
 
 =========== BWF============
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/uaPlw2ytF9b3tNxzmc4TWfahAbI=/960x576/filters:quality(70)/vidio-web-prod-headline/uploads/headline/mobile_image/29627/yonex-swiss-open-2026-1ee3ca.jpg" group-title="BWF",YONEX SWISS OPEN 2026
