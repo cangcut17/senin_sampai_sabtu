@@ -1,11 +1,3 @@
-#EXTINF:-1 group-logo="" tvg-logo="https://thumbor.prod.vidiocdn.com/pPccZasYk-FQ-UbLoqIscacVHF8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969427/c23b35.jpg" group-title="@LIVE",Indonesia vs Saint Kitts and Nevis - FIFA Series
-#EXTVLCOPT:http-referrer=https://m.vidio.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://pidio.becek.workers.dev/20992.drm
-https://nissa07.adptv.workers.dev/20992.mpd
-
-
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeETqytRB2MhsYGC2ar3qUPM2gqSQ9MTEC1tGWqiCGWA&s=10" group-title=" @LIVE MLBB" tvg-logo="https://foto.kontan.co.id/EOLrjsV-xGPv3gdgenm7t_tJgHM=/smart/filters:format(webp)/2025/03/22/1666550924.jpg",MLBB S17
 https://qtv.my.id/ytlive/index.m3u8?id=og8nbJ2InZA&type=hls
 
