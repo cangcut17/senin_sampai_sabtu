@@ -1,3 +1,11 @@
+#EXTINF:-1 group-logo="" tvg-logo="https://thumbor.prod.vidiocdn.com/I0tzVGRKBs0cXp00_OTbpVCg10o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969752/4f40c3.jpg" group-title="@LIVE",Persela Lamongan vs Persiba Balikpapan - Pegadaian Championship
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://tvratu.my.id/v-node/index.drm?id=20833&type=drm
+http://tvratu.my.id/v-node/index.m3u8?id=20833&type=hls
+
+
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeETqytRB2MhsYGC2ar3qUPM2gqSQ9MTEC1tGWqiCGWA&s=10" group-title=" @LIVE MLBB" tvg-logo="https://foto.kontan.co.id/EOLrjsV-xGPv3gdgenm7t_tJgHM=/smart/filters:format(webp)/2025/03/22/1666550924.jpg",MLBB S17
 https://qtv.my.id/ytlive/index.m3u8?id=xIulul68cJM&type=hls
 
