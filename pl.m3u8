@@ -316,6 +316,10 @@ https://cdn10jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd
 #EXTVLCOPT:http-origin=https://www.indihometv.com
 #EXTINF:-1 tvg-id="079" tvg-name="adptv-079" group-title="MAXSTREAM" tvg-logo="https://i.ibb.co.com/wFNSyDbg/MAXSTREAM.png",MAXSTREAM
 #https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
+#EXTINF:-1 tvg-id="018" tvg-name="adptv-018" tvg-logo="https://i.ibb.co.com/mV2pFxVb/mdtv.png" group-title="MAXSTREAM",MDTV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b6568e0d0a23406ebbe24619fdd063ed:4d6a505b7361c5e1b07ffa72155d045f
+https://cdn08jtedge.indihometv.com/dassdvr/134/net/manifest.mpd
 #EXTINF:-1 tvg-id="080" tvg-name="adptv-080" tvg-logo="https://i.ibb.co.com/DDPzzP81/20260227-153040.png" group-title="MAXSTREAM",MTA
 https://cdn10jtedge.indihometv.com/atm/DASH/mtatv/manifest.mpd
 #EXTINF:-1 tvg-id="081" tvg-name="adptv-081" group-title="MAXSTREAM" tvg-logo="https://i.ibb.co.com/1YmFW7xG/MTV-LIVE.png",MTV
