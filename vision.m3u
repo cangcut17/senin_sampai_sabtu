@@ -1,41 +1,24 @@
 #EXTM3U
-#EXTINF:-1 group-logo="" tvg-logo="https://thumbor.prod.vidiocdn.com/Nl7l6lEyd1hxiGL8W2fGWSvV9r4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4980161/7b31ac.jpg" group-title="FIFA",Final: Indonesia vs Bulgaria - FIFA Series 19:00 WIB
-#EXTVLCOPT:http-referrer=https://m.vidio.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://all.diskon.cloud/ratu/index.drm?id=20992&type=drm
-http://all.diskon.cloud/ratu/index.mpd?id=20992&type=dash
-#EXTINF:-1 group-logo="" tvg-logo="https://thumbor.prod.vidiocdn.com/Xwvkgfb19l2RxPxLESxPuMX28lk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4980877/b17129.jpg" group-title="FIFA",Awarding Ceremony Final FIFA Series 2026 Indonesia 22:00 WIB
-#EXTVLCOPT:http-referrer=https://m.vidio.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.drm?id=20992&type=drm
-https://ratuvidio.adptv.workers.dev/index.mpd?id=20992&type=dash
-
-
-
-========BWF
-
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/QewulhWeckgpLjAplYWZqNECeFI=/960x576/filters:quality(70)/vidio-web-prod-headline/uploads/headline/mobile_image/19969/orleans-masters-badminton-2026-74d0ae.jpg" group-title="BWF",COURT 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aylin-ratu76.mediaflow.workers.dev/index.mpd?id=18249&type=drm
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-https://aylin-ratu76.mediaflow.workers.dev/index.mpd?id=18249&type=dash
+#https://aylin-ratu76.mediaflow.workers.dev/index.mpd?id=18249&type=dash
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/QewulhWeckgpLjAplYWZqNECeFI=/960x576/filters:quality(70)/vidio-web-prod-headline/uploads/headline/mobile_image/19969/orleans-masters-badminton-2026-74d0ae.jpg" group-title="BWF",COURT 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aylin-ratu76.mediaflow.workers.dev/index.mpd?id=18250&type=drm
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-https://aylin-ratu76.mediaflow.workers.dev/index.mpd?id=18250&type=dash
+#https://aylin-ratu76.mediaflow.workers.dev/index.mpd?id=18250&type=dash
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/QewulhWeckgpLjAplYWZqNECeFI=/960x576/filters:quality(70)/vidio-web-prod-headline/uploads/headline/mobile_image/19969/orleans-masters-badminton-2026-74d0ae.jpg" group-title="BWF",COURT 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aylin-ratu76.mediaflow.workers.dev/index.mpd?id=18252&type=drm
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-https://aylin-ratu76.mediaflow.workers.dev/index.mpd?id=18252&type=dash
+#https://aylin-ratu76.mediaflow.workers.dev/index.mpd?id=18252&type=dash
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/QewulhWeckgpLjAplYWZqNECeFI=/960x576/filters:quality(70)/vidio-web-prod-headline/uploads/headline/mobile_image/19969/orleans-masters-badminton-2026-74d0ae.jpg" group-title="BWF",COURT 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aylin-ratu76.mediaflow.workers.dev/index.mpd?id=18253&type=drm
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-https://aylin-ratu76.mediaflow.workers.dev/index.mpd?id=18253&type=dash
+#https://aylin-ratu76.mediaflow.workers.dev/index.mpd?id=18253&type=dash
 
 ================================
 
