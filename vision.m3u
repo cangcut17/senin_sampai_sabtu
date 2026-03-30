@@ -1,24 +1,10 @@
 #EXTM3U
-#EXTINF:-1 group-logo="" tvg-logo="https://thumbor.prod.vidiocdn.com/iedwSYI8BWExo7BoWHVkOVSssV8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4980160/4c93d5.jpg" group-title="FIFA ",3rd Place: Saint Kitts and Nevis vs Solomon Islands - FIFA Series 15:20 WIB
-#EXTVLCOPT:http-referrer=https://m.vidio.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.drm?id=20992&type=drm
-https://ratuvidio.adptv.workers.dev/index.m3u8?id=20992&type=hls
-
-#EXTINF:-1 group-logo="" tvg-logo="https://thumbor.prod.vidiocdn.com/idT2_j_3_o9Paqwt4OKA0fwJIJ0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4980876/0f63b8.jpg" group-title="FIFA",Awarding Ceremony 3rd Place FIFA Series 2026 Indonesia 17:45 WIB
-#EXTVLCOPT:http-referrer=https://m.vidio.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.drm?id=20992&type=drm
-https://ratuvidio.adptv.workers.dev/index.mpd?id=20992&type=dash
 #EXTINF:-1 group-logo="" tvg-logo="https://thumbor.prod.vidiocdn.com/Nl7l6lEyd1hxiGL8W2fGWSvV9r4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4980161/7b31ac.jpg" group-title="FIFA",Final: Indonesia vs Bulgaria - FIFA Series 19:00 WIB
 #EXTVLCOPT:http-referrer=https://m.vidio.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.drm?id=20992&type=drm
-https://ratuvidio.adptv.workers.dev/index.mpd?id=20992&type=dash
-
+#KODIPROP:inputstream.adaptive.license_key=http://all.diskon.cloud/ratu/index.drm?id=20992&type=drm
+http://all.diskon.cloud/ratu/index.mpd?id=20992&type=dash
 #EXTINF:-1 group-logo="" tvg-logo="https://thumbor.prod.vidiocdn.com/Xwvkgfb19l2RxPxLESxPuMX28lk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4980877/b17129.jpg" group-title="FIFA",Awarding Ceremony Final FIFA Series 2026 Indonesia 22:00 WIB
 #EXTVLCOPT:http-referrer=https://m.vidio.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
