@@ -1,22 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-logo="" tvg-logo="https://thumbor.prod.vidiocdn.com/Nl7l6lEyd1hxiGL8W2fGWSvV9r4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4980161/7b31ac.jpg" group-title="FIFA",Final: Indonesia vs Bulgaria - FIFA Series 19:00 WIB
-#EXTVLCOPT:http-referrer=https://m.vidio.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://all.diskon.cloud/ratu/index.drm?id=20992&type=drm
-http://all.diskon.cloud/ratu/index.mpd?id=20992&type=dash
-
-#EXTINF:-1 group-logo="" tvg-logo="https://thumbor.prod.vidiocdn.com/Xwvkgfb19l2RxPxLESxPuMX28lk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4980877/b17129.jpg" group-title="FIFA",Awarding Ceremony Final FIFA Series 2026 Indonesia 22:00 WIB
-#EXTVLCOPT:http-referrer=https://m.vidio.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.drm?id=20992&type=drm
-https://ratuvidio.adptv.workers.dev/index.mpd?id=20992&type=dash
-
-
-
-#EXTM3U
-
 #EXTINF:-1 group-logo="https://i.ibb.co.com/5hPWP8XM/20260215-235442.png" group-title=" @LIVE" tvg-logo="https://i.ibb.co.com/RkmBWqRr/free.png",//t.me/adptv17
 http://all.diskon.cloud/intro/index.m3u8
 #EXTINF:-1 group-logo="https://i.ibb.co.com/KcN6s0Y4/20260215-235315.png" group-title=" @UPCOMING" tvg-logo="https://i.ibb.co.com/RkmBWqRr/free.png",//t.me/adptv17
