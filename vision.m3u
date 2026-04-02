@@ -1,18 +1,17 @@
 #EXTM3U
-#EXTINF:-1 group-logo="" tvg-logo="https://thumbor.prod.vidiocdn.com/hyZbj4yDYMxAQEcbtuKfRgbIpLg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4974398/20b43f.jpg" group-title="PROLIGA 2026",Final Four Putra: Jakarta Bhayangkara Presisi vs Surabaya Samator - Proliga 15:30 WIB
+#EXTINF:-1 group-logo="" tvg-logo="https://thumbor.prod.vidiocdn.com/hyZbj4yDYMxAQEcbtuKfRgbIpLg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4974398/20b43f.jpg" group-title="@LIVE",Final Four Putra: Jakarta Bhayangkara Presisi vs Surabaya Samator - Proliga 15:30 WIB
 #EXTVLCOPT:http-referrer=https://m.vidio.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.drm?id=20240&type=drm
-https://ratuvidio.adptv.workers.dev/index.mpd?id=20240&type=dash
+#KODIPROP:inputstream.adaptive.license_key=http://onetv.my.id/Bebas/20240.drm
+http://onetv.my.id/Bebas/20240.m3u8
 
-#EXTINF:-1 group-logo="" tvg-logo="https://thumbor.prod.vidiocdn.com/DqdcPt6P8nqBkvVL4qReREzMjpg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4974497/e7b360.jpg" group-title="PROLIGA 2026",Final Four Putri: Jakarta Pertamina Enduro vs Jakarta Electric PLN Mobile - Proliga 18:30 WIB
+#EXTINF:-1 group-logo="" tvg-logo="https://thumbor.prod.vidiocdn.com/DqdcPt6P8nqBkvVL4qReREzMjpg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4974497/e7b360.jpg" group-title="@LIVE",Final Four Putri: Jakarta Pertamina Enduro vs Jakarta Electric PLN Mobile - Proliga 18:30 WIB
 #EXTVLCOPT:http-referrer=https://m.vidio.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.drm?id=20240&type=drm
-https://ratuvidio.adptv.workers.dev/index.mpd?id=20240&type=dash
-
+#KODIPROP:inputstream.adaptive.license_key=http://onetv.my.id/Bebas/20240.drm
+http://onetv.my.id/Bebas/20240.m3u8
 ===
 
 #EXTM3U
