@@ -1,13 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-logo="" tvg-logo="https://thumbor.prod.vidiocdn.com/DqdcPt6P8nqBkvVL4qReREzMjpg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4974497/e7b360.jpg" group-title="@LIVE",Final Four Putri: Jakarta Pertamina Enduro vs Jakarta Electric PLN Mobile - Proliga 18:30 WIB
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/pidick.php?id=20240&type=drm
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-http://onetv.my.id/Bebas/20240.mpd
-===
-
-#EXTM3U
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/QewulhWeckgpLjAplYWZqNECeFI=/960x576/filters:quality(70)/vidio-web-prod-headline/uploads/headline/mobile_image/19969/orleans-masters-badminton-2026-74d0ae.jpg" group-title="BWF",COURT 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aylin-ratu76.mediaflow.workers.dev/index.mpd?id=18249&type=drm
