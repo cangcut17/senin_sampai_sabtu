@@ -1,24 +1,24 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/QewulhWeckgpLjAplYWZqNECeFI=/960x576/filters:quality(70)/vidio-web-prod-headline/uploads/headline/mobile_image/19969/orleans-masters-badminton-2026-74d0ae.jpg" group-title="BWF",COURT 1
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Mos2jM0_Ph6E_uw_pizbe-i4nkA=/960x576/filters:quality(70)/vidio-web-prod-headline/uploads/headline/mobile_image/37281/european-championships-2026-quarterfinals-semifinals-54b57e.jpg" group-title="BWF",COURT 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aylin-ratu76.mediaflow.workers.dev/index.mpd?id=18249&type=drm
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#https://aylin-ratu76.mediaflow.workers.dev/index.mpd?id=18249&type=dash
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/QewulhWeckgpLjAplYWZqNECeFI=/960x576/filters:quality(70)/vidio-web-prod-headline/uploads/headline/mobile_image/19969/orleans-masters-badminton-2026-74d0ae.jpg" group-title="BWF",COURT 2
+https://aylin-ratu76.mediaflow.workers.dev/index.mpd?id=18249&type=dash
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Mos2jM0_Ph6E_uw_pizbe-i4nkA=/960x576/filters:quality(70)/vidio-web-prod-headline/uploads/headline/mobile_image/37281/european-championships-2026-quarterfinals-semifinals-54b57e.jpg" group-title="BWF",COURT 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aylin-ratu76.mediaflow.workers.dev/index.mpd?id=18250&type=drm
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#https://aylin-ratu76.mediaflow.workers.dev/index.mpd?id=18250&type=dash
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/QewulhWeckgpLjAplYWZqNECeFI=/960x576/filters:quality(70)/vidio-web-prod-headline/uploads/headline/mobile_image/19969/orleans-masters-badminton-2026-74d0ae.jpg" group-title="BWF",COURT 3
+https://aylin-ratu76.mediaflow.workers.dev/index.mpd?id=18250&type=dash
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Mos2jM0_Ph6E_uw_pizbe-i4nkA=/960x576/filters:quality(70)/vidio-web-prod-headline/uploads/headline/mobile_image/37281/european-championships-2026-quarterfinals-semifinals-54b57e.jpg" group-title="BWF",COURT 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aylin-ratu76.mediaflow.workers.dev/index.mpd?id=18252&type=drm
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#https://aylin-ratu76.mediaflow.workers.dev/index.mpd?id=18252&type=dash
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/QewulhWeckgpLjAplYWZqNECeFI=/960x576/filters:quality(70)/vidio-web-prod-headline/uploads/headline/mobile_image/19969/orleans-masters-badminton-2026-74d0ae.jpg" group-title="BWF",COURT 4
+https://aylin-ratu76.mediaflow.workers.dev/index.mpd?id=18252&type=dash
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Mos2jM0_Ph6E_uw_pizbe-i4nkA=/960x576/filters:quality(70)/vidio-web-prod-headline/uploads/headline/mobile_image/37281/european-championships-2026-quarterfinals-semifinals-54b57e.jpg" group-title="BWF",COURT 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aylin-ratu76.mediaflow.workers.dev/index.mpd?id=18253&type=drm
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#https://aylin-ratu76.mediaflow.workers.dev/index.mpd?id=18253&type=dash
+https://aylin-ratu76.mediaflow.workers.dev/index.mpd?id=18253&type=dash
 
 ================================
 
